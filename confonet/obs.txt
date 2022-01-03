@@ -1,0 +1,33 @@
+1. http://cms.nic.in/ncdrcusersWeb/GetJudgement.do?method=GetJudgement&caseidin=0%2F0%2FRP%2F621%2F2018&dtofhearing=2020-01-03 : dismissed one complaint but not others
+
+2. same case different complainants:
+ http://cms.nic.in/ncdrcusersWeb/GetJudgement.do?method=GetJudgement&caseidin=0%2F0%2FCC%2F3619%2F2017&dtofhearing=2020-01-03
+
+3. many are of pdf form, no html:
+ CC/20/342, MA/18/310
+
+5. last para has multiple para in it:
+    http://cms.nic.in/ncdrcusersWeb/GetJudgement.do?method=GetJudgement&caseidin=0%2F0%2FFA%2F1319%2F2016&dtofhearing=2020-01-10
+    http://cms.nic.in/ncdrcusersWeb/GetJudgement.do?method=GetJudgement&caseidin=0%2F0%2FCC%2F1242%2F2016&dtofhearing=2020-01-03
+
+6. require atleast 2 last paras / no info in last paras: 
+    http://cms.nic.in/ncdrcusersWeb/GetJudgement.do?method=GetJudgement&caseidin=0%2F0%2FRP%2F3116%2F2017&dtofhearing=2020-01-02
+    http://cms.nic.in/ncdrcusersWeb/GetJudgement.do?method=GetJudgement&caseidin=0%2F0%2FRP%2F2538%2F2019&dtofhearing=2020-01-06
+    http://cms.nic.in/ncdrcusersWeb/GetJudgement.do?method=GetJudgement&caseidin=0%2F0%2FCC%2F2240%2F2016&dtofhearing=2020-01-07
+    http://cms.nic.in/ncdrcusersWeb/GetJudgement.do?method=GetJudgement&caseidin=0%2F0%2FFA%2F2153%2F2018&dtofhearing=2020-01-06
+
+- bold text : http://cms.nic.in/ncdrcusersWeb/GetJudgement.do?method=GetJudgement&caseidin=0%2F0%2FRP%2F1597%2F2011&dtofhearing=2020-01-16
+
+- no paras : http://cms.nic.in/ncdrcusersWeb/GetJudgement.do?method=GetJudgement&caseidin=0%2F0%2FCC%2F45%2F2011&dtofhearing=2020-06-25 => breaks
+
+- first appeals : http://cms.nic.in/ncdrcusersWeb/GetJudgement.do?method=GetJudgement&caseidin=0%2F0%2FFA%2F2081%2F2019&dtofhearing=2020-01-03
+
+- dismissed / allowed ; Opposition party = OP
+
+- conflicting last para : http://cms.nic.in/ncdrcusersWeb/GetJudgement.do?method=GetJudgement&caseidin=0%2F0%2FFA%2F2153%2F2018&dtofhearing=2020-01-06
+
+- compensation given, but not increased in first appeal :  FA/67/2013  
+
+- unfinished/ redirected to state commission :  RP/2951/2017  
+
+- case details? how much to include ?

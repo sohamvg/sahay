@@ -1,0 +1,15 @@
+- no info in last paras: 
+http://cms.nic.in/ncdrcusersWeb/GetJudgement.do?method=GetJudgement&caseidin=0%2F0%2FRP%2F3116%2F2017&dtofhearing=2020-01-02
+http://cms.nic.in/ncdrcusersWeb/GetJudgement.do?method=GetJudgement&caseidin=0%2F0%2FRP%2F2538%2F2019&dtofhearing=2020-01-06
+http://cms.nic.in/ncdrcusersWeb/GetJudgement.do?method=GetJudgement&caseidin=0%2F0%2FFA%2F2153%2F2018&dtofhearing=2020-01-06
+http://cms.nic.in/ncdrcusersWeb/GetJudgement.do?method=GetJudgement&caseidin=0%2F0%2FCC%2F1242%2F2016&dtofhearing=2020-01-03
+
+
+- first appeals
+http://cms.nic.in/ncdrcusersWeb/GetJudgement.do?method=GetJudgement&caseidin=0%2F0%2FFA%2F2081%2F2019&dtofhearing=2020-01-03
+
+- compensation given, but not increased in first appeals
+http://cms.nic.in/ncdrcusersWeb/GetJudgement.do?method=GetJudgement&caseidin=0%2F0%2FFA%2F67%2F2013&dtofhearing=2020-01-06
+
+- unfinished/ redirected to state commission
+http://cms.nic.in/ncdrcusersWeb/GetJudgement.do?method=GetJudgement&caseidin=0%2F0%2FRP%2F2951%2F2017&dtofhearing=2020-01-06

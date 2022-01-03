@@ -1,0 +1,133 @@
+- no dismissed/disposed: http://cms.nic.in/ncdrcusersWeb/GetJudgement.do?method=GetJudgement&caseidin=0%2F0%2FCC%2F206%2F2018&dtofhearing=2019-01-25
+
+- decision not to be treated as precedent: http://cms.nic.in/ncdrcusersWeb/GetJudgement.do?method=GetJudgement&caseidin=0%2F0%2FFA%2F929%2F2018&dtofhearing=2019-01-02
+- unfinished cases - sent back to lower courts
+    http://cms.nic.in/ncdrcusersWeb/GetJudgement.do?method=GetJudgement&caseidin=0%2F0%2FFA%2F2273%2F2017&dtofhearing=2019-01-17
+    http://cms.nic.in/ncdrcusersWeb/GetJudgement.do?method=GetJudgement&caseidin=0%2F0%2FFA%2F579%2F2012&dtofhearing=2020-01-03
+
+
+
+
+>>>>  For the reasons stated above, the impugned orders cannot be sustained and same are hereby set aside.  The consumer complaints are consequently with no order as to costs. => case dismissed
+http://cms.nic.in/ncdrcusersWeb/GetJudgement.do?method=GetJudgement&caseidin=0%2F0%2FRP%2F990%2F2019&dtofhearing=2020-01-14
+
+>>>> FA/266/2010
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- old/state commission orders confuse with final orders: http://cms.nic.in/ncdrcusersWeb/GetJudgement.do?method=GetJudgement&caseidin=0%2F0%2FCC%2F172%2F2016&dtofhearing=2020-01-02
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+===============
+
+
+
+
+extracting facts & judgement:
+- look for "dismissed" from the end. if not, then look for "disposed". if not, use last 2 paragraphs
+- for facts, use info between starting and judgement
+- possible to use "Against the order.." in case of Revised petition and first appeal.
+- difficult to extract facts
+    - short cases: http://cms.nic.in/ncdrcusersWeb/GetJudgement.do?method=GetJudgement&caseidin=0%2F0%2FRA%2F152%2F2018&dtofhearing=2019-01-17
+    - long cases: http://cms.nic.in/ncdrcusersWeb/GetJudgement.do?method=GetJudgement&caseidin=0%2F0%2FCC%2F1425%2F2016&dtofhearing=2020-01-03
+    - no dismissed/disposed: http://cms.nic.in/ncdrcusersWeb/GetJudgement.do?method=GetJudgement&caseidin=0%2F0%2FCC%2F206%2F2018&dtofhearing=2019-01-25
+
+- definitions: http://cms.nic.in/ncdrcusersWeb/GetJudgement.do?method=GetJudgement&caseidin=0%2F0%2FCC%2F2677%2F2018&dtofhearing=2019-02-11
+
+classify the judgement: 
+- if "dismissed" -> loss
+- "complaint is allowed", "OP shall refund", "OP shall pay" -> win
+- decision not to be treated as precedent: http://cms.nic.in/ncdrcusersWeb/GetJudgement.do?method=GetJudgement&caseidin=0%2F0%2FFA%2F929%2F2018&dtofhearing=2019-01-02
+- confusion when both "OP is entitled to " and "OP is not entitled to " present or "partly allowed/ allowed partly".
+- unfinished cases - sent back to lower courts
+    http://cms.nic.in/ncdrcusersWeb/GetJudgement.do?method=GetJudgement&caseidin=0%2F0%2FFA%2F2273%2F2017&dtofhearing=2019-01-17
+    http://cms.nic.in/ncdrcusersWeb/GetJudgement.do?method=GetJudgement&caseidin=0%2F0%2FFA%2F579%2F2012&dtofhearing=2020-01-03
+
+
+- use underlines? http://cms.nic.in/ncdrcusersWeb/GetJudgement.do?method=GetJudgement&caseidin=0%2F0%2FRP%2F2662%2F2015&dtofhearing=2020-01-03
+- old/state commission orders confuse with final orders: http://cms.nic.in/ncdrcusersWeb/GetJudgement.do?method=GetJudgement&caseidin=0%2F0%2FCC%2F172%2F2016&dtofhearing=2020-01-02
+- OP = Opposition Pary = Opp. Party etc.
+- allowed in part.
